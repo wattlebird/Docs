@@ -1,0 +1,19 @@
+{
+  "logo": {
+    "text": "Bangumi Research Library",
+    "type": "link",
+    "path": "index.html"
+  },
+  "main": [
+    {
+      "text": "Bangumi Research",
+      "type": "link",
+      "path": "index.html"
+    },
+    {
+      "text": "某科学的 Bangumi 动画排名",
+      "type": "link",
+      "path": "ranking/index.html"
+    }
+  ]
+}
